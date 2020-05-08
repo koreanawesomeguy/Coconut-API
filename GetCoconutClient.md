@@ -4,8 +4,7 @@
 
 - Request Parameter
   . Content type : application/json
-  
-  . Request Parameters  
+
 
 First Header | Second Header
 ------------ | -------------
