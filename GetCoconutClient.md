@@ -1,23 +1,14 @@
 전체 계좌 조회
 
-https://8aa4963gcd.execute-api.us-east-2.amazonaws.com/GetCoconutClient
+# Coconut 회원 조회
 
-# Coconut
+- https://8aa4963gcd.execute-api.us-east-2.amazonaws.com/GetCoconutClient (POST)
 
+requestBody.put("FIT", idToken)
 
+JSON (application/json)
 
-1. 지갑의 종류
-    BTC: blockchain
-    CSMT: ERC20
-    ETH: blockchain
-    GHC: ERC20
-    GHD: ERC20, USB에 pegging
-    LTC: blockchain
-    PHP: ERC20, PHP에 pegging
-    VRGX: ERC20
-    XRP: blockchain
-
-
-
-
-### API
+### Request Parameters
+- Content type : application/json
+- Request Parameters
+  . {"FIT" : "GjdkeiaGjdkjklaioGADf"}
