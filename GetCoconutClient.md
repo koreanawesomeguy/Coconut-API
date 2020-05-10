@@ -8,9 +8,9 @@
   * Content type : application/json
   * Request Parameters
 
-요청 변수 | 설명 | 타입
------------- | ------------- | -------------
-FIT | Firebase Id Token | String/필수
+    요청 변수 | 설명 | 타입
+    ------------ | ------------- | -------------
+    FIT | Firebase Id Token | String/필수
 
 
 - Response Sample
