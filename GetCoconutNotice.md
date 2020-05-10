@@ -1,4 +1,4 @@
-# Coconut 회원 가입
+# Coconut 게시판 조회 
 
 
 - API : https://tiphzvavs0.execute-api.us-east-2.amazonaws.com/GetCoconutNotice (POST)
