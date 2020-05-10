@@ -5,8 +5,8 @@
 
 
 - Request Sample
-  . Content type : application/json
-  . Request Parameters
+  * Content type : application/json
+  * Request Parameters
 
 요청 변수 | 설명 | 타입
 ------------ | ------------- | -------------
