@@ -42,18 +42,4 @@
   LTC | LTC 주소 정보 | String/필수
   XRP | XRP 주소 정보 | String/필수
               
-- Response Error
-  
-  * Sample
-  {
-      "status": "3001",
-      "response": "None"
-  }
-  
-  * Response Schema (application/json)
-
-  에러 코드 | 에러 메시지 | 설명
-  ------------ | ------------- | -------------
-  3001 | "None" | 해당 자산의 주소정보 없음
-  3100 | "" | Firebase Id Token 오류
   
