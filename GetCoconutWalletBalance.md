@@ -9,7 +9,7 @@
   * Sample
   {
       "FIT" : "ReUTaYQeUDcpq2YMxZE3mKfaX6C3",
-      "AssetCode" : "all"                    //BTC, ETH, XRP, LTC
+      "AssetCode" : "all"                    
   }
   
   * Request body schema (application/json)
@@ -17,7 +17,7 @@
   요청 변수 | 설명 | 타입
   ------------ | ------------- | -------------
   FIT | Firebase Id Token | String/필수
-  AssetCode | 생성하고자 하는 이름(all : 모든 지갑 주소 생성, BTC/ETH/XRP/LTC) | String/필수
+  AssetCode | 얻고자 하는 Balance 이름(all : 모든 자산의 Balance, BTC/ETH/XRP/LTC/GHUB/GHD/VRGX/VGP/CSMT) | String/필수
 
 - Response Success
 
