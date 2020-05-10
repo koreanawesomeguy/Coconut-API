@@ -1,4 +1,4 @@
-# Coconut 회원 가입
+# Coconut 회원 
 
 
 - API : https://4dkqe0gq77.execute-api.us-east-2.amazonaws.com/RemoveCoconutClient (POST)
