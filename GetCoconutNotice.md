@@ -54,18 +54,3 @@
   Type | Type : 공지사항/FAQ/약관 등 | String/필수
   ReportingDate | 작성일시 | String/필수
   
-- Response Error
-  
-  * Sample
-  {
-      "status": "3001",
-      "response": "None"
-  }
-  
-  * Response Schema (application/json)
-
-  에러 코드 | 에러 메시지 | 설명
-  ------------ | ------------- | -------------
-  3001 | "None" | 등록된 게시글이 없는 경우 
-  3100 | "" | Firebase Id Token 오류
-  
