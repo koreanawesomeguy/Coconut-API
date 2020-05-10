@@ -12,7 +12,6 @@
     ------------ | ------------- | -------------
     FIT | Firebase Id Token | String/필수
 
-
 - Response Sample
 {
     "status": "3000",
@@ -35,3 +34,4 @@ status	결과 상태 코드 (정상: 0000, 그 외 에러 코드 참조)	String
 ------------ | ------------- | -------------
 5100 | '' | Firebase Id Token 오류
 5200 | 'Not Member' | 회원가입이 되어있지 않음
+
