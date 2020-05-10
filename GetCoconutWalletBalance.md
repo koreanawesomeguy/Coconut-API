@@ -46,14 +46,14 @@
   
   * Sample
   {
-      "status": "3200",
-      "response": ""
+      "status": "3001",
+      "response": "None"
   }
   
   * Response Schema (application/json)
 
   에러 코드 | 에러 메시지 | 설명
   ------------ | ------------- | -------------
-  3001 | "None" | 자산정보 
+  3001 | "None" | 해당 회원의 자산정보 없음
   3100 | "" | Firebase Id Token 오류
   
