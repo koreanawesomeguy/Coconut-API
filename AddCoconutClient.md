@@ -37,19 +37,3 @@
   ------------ | ------------- | -------------
   status | 결과 상태 코드 (정상: 3000, 그 외 에러 코드 참조) | String/필수
   response | 요청 결과 | String/필수
-  
-- Response Error
-  
-  * Sample
-  {
-      "status": "3300",
-      "response": ""
-  }
-  
-  * Response Schema (application/json)
-
-  에러 코드 | 에러 메시지 | 설명
-  ------------ | ------------- | -------------
-  3100 | "" | Firebase Id Token 오류
-  3300 | "Member Exist" | 이미 코코넛 회원가입 상태
-  
