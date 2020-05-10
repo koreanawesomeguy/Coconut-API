@@ -49,19 +49,20 @@
   필드 | 설명 | 타입
   ------------ | ------------- | -------------
   status | 결과 상태 코드 (정상: 3000, 그 외 에러 코드 참조) | String/필수
-  response | Title : 제목, Content : 내용, ReportingDate : 작성일시 | String/필수
+  response | Title : 제목, Content : 내용, Type : 공지사항/FAQ/약관 등, ReportingDate : 작성일시 | String/필수
   
 - Response Error
   
   * Sample
   {
-      "status": "3300",
-      "response": ""
+      "status": "3001",
+      "response": "None"
   }
   
   * Response Schema (application/json)
 
   에러 코드 | 에러 메시지 | 설명
   ------------ | ------------- | -------------
+  3001 | "None" | 등록된 게시글이 없는 경우 
   3100 | "" | Firebase Id Token 오류
   
