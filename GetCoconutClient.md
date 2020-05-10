@@ -1,19 +1,21 @@
 # Coconut 회원 조회
 
+
 - API : https://8aa4963gcd.execute-api.us-east-2.amazonaws.com/GetCoconutClient (POST)
 
-- Request Parameter
+
+- Request Sample
   . Content type : application/json
+  . Request Parameters
+
+요청 변수 | 설명 | 타입
+------------ | ------------- | -------------
+FIT | Firebase Id Token | String/필수
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+- Response Sample
 
-
-    {
-        "FIT" : "GjdkeiaGjdkjklaioGADf"
-    }
-
-- Response
+에러 코드 | 에러 메시지 | 설명
+------------ | ------------- | -------------
+5100 | '' | Firebase Id Token 오류
+5200 | 'Not Member' | 회원가입이 되어있지 않음
