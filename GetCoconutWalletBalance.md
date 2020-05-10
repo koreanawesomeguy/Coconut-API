@@ -1,4 +1,4 @@
-# Coconut 회원 가입
+# Coconut Balance 정보
 
 
 - API : https://f6fp9lrs33.execute-api.us-east-2.amazonaws.com/GetCoconutWalletBalance (POST)
@@ -54,6 +54,6 @@
 
   에러 코드 | 에러 메시지 | 설명
   ------------ | ------------- | -------------
+  3001 | "None" | 자산정보 
   3100 | "" | Firebase Id Token 오류
-  3200 | "Member Exist" | 이미 코코넛 회원가입 상태
   
