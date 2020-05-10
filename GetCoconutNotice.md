@@ -49,7 +49,10 @@
   필드 | 설명 | 타입
   ------------ | ------------- | -------------
   status | 결과 상태 코드 (정상: 3000, 그 외 에러 코드 참조) | String/필수
-  response | Title : 제목, Content : 내용, Type : 공지사항/FAQ/약관 등, ReportingDate : 작성일시 | String/필수
+  Title | 제목 | String/필수
+  Content | 내용 | String/필수
+  Type | Type : 공지사항/FAQ/약관 등 | String/필수
+  ReportingDate | 작성일시 | String/필수
   
 - Response Error
   
