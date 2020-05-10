@@ -1,4 +1,4 @@
-# Coconut Balance 정보
+# Coconut 자산 주소 정보
 
 
 - API : https://1wtsdocg45.execute-api.us-east-2.amazonaws.com/GetCoconutWalletAddress (POST)
