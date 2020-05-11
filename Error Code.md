@@ -16,3 +16,4 @@
   3100 | "" | Firebase Id Token 오류
   3200 | "Not Member" | 회원가입이 되어있지 않음
   3300 | "Member Exist" | 이미 코코넛 회원가입 상태
+  3400 | "Create Address Failed" | 이미 코코넛 회원가입 상태
