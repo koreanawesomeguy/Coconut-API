@@ -17,3 +17,4 @@
   3200 | "Not Member" | 회원가입이 되어있지 않음
   3300 | "Member Exist" | 이미 코코넛 회원가입 상태
   3400 | "SignUp Failed" | 회원가입 실패
+  3500 | "Create Address Failed" | 자산 주소 생성 실패
