@@ -21,7 +21,7 @@
 
   * Sample 
   {
-      "status": "3000",
+      "status": 3000,
       "response": "OK"
   }
   
