@@ -1,7 +1,7 @@
 # Coconut 자산 주소 정보
 
 
-- API : https://1wtsdocg45.execute-api.us-east-2.amazonaws.com/GetCoconutWalletAddress (POST)
+- API : https://0onl0boee8.execute-api.us-east-2.amazonaws.com/GetCoconutWalletAddress (POST)
 
 
 - Request
@@ -9,7 +9,7 @@
   * Sample
   {
       "FIT" : "ReUTaYQeUDcpq2YMxZE3mKfaX6C3",
-      "AssetCode" : "all"
+      "AssetCode" : "all"                         //BTC, ETH, LTC, XRP
   }
   
   * Request body schema (application/json)
