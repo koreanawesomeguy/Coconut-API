@@ -9,7 +9,7 @@
   * Sample
   {
       "FIT" : "ReUTaYQeUDcpq2YMxZE3mKfaX6C3",
-      "AssetCode" : "all"                         //BTC, ETH, LTC, XRP
+      "AssetCode" : "ALL"                         //BTC, ETH, LTC, XRP
   }
   
   * Request body schema (application/json)
