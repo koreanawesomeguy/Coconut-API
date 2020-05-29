@@ -42,4 +42,5 @@
   LTC | LTC 주소 정보 | String/필수
   XRP | XRP 주소 정보 | String/필수
               
-  
+  * ETH의 경우 최초 한번은 ETH ID 값, 다음 번 요청시에 실제 ETH 주소값을 받을 수 있다.
+  ex) 최초 회원가입 완료 후 Main페이지에서 AssetCode:ALL로 모든 지갑 주소 생성 -> ETH는 ID값을 가지고 있기 때문에 ETH 카드로 들어가는 경우, AssetCode:ETH로 다시 한번 요청해야 함. 
