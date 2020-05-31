@@ -1,7 +1,7 @@
 # Coconut 로그인 관리
 
 
-- API : https://r97dhhawq4.execute-api.us-east-2.amazonaws.com/GetCoconutLoginHistory (POST)
+- API : https://ltz8fd92bk.execute-api.us-east-2.amazonaws.com/AddCoconutLoginHistory (POST)
 
 - Request
 
