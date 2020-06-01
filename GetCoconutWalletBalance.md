@@ -17,7 +17,7 @@
   요청 변수 | 설명 | 타입
   ------------ | ------------- | -------------
   FIT | Firebase Id Token | String/필수
-  AssetCode | 얻고자 하는 Balance 이름(all : 모든 자산의 Balance, BTC/ETH/XRP/LTC/GHUB/GHD/VRGX/VGP/CSMT) | String/필수
+  AssetCode | 얻고자 하는 Balance 이름(ALL : 모든 자산의 Balance, BTC/ETH/XRP/LTC/GHUB/GHD/VRGX/VGP/CSMT) | String/필수
 
 - Response Success
 
