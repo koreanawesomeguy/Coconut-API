@@ -9,7 +9,7 @@
   * Sample
   {
       "FIT" : "ReUTaYQeUDcpq2YMxZE3mKfaX6C3",
-      "AssetCode" : "all"                    
+      "AssetCode" : "ALL"
   }
   
   * Request body schema (application/json)
@@ -22,10 +22,13 @@
 - Response Success
 
   * Sample 
-  {
-      "status": "3000",
-      "response": "{'GHUB': '0', 'BTC': '0', 'GHD': '0', 'XRP': '0', 'CSMT': '0', 'VRGX': '0', 'ETH': '0', 'LTC': '0', 'VGP': '0'}"
-  }
+{
+    "status": "3000",
+    "response": 
+    {
+        "UID": "Gcj1xiAvEKbVttVplaWtrR9xUBF2", "GHUB": "0", "BTC": "0", "GHD": "0", "XRP": "0", "CSMT": "0", "VRGX": "10.5", "ETH": "0", "LTC": "0", "VGP": "10"
+    }
+}
   
   * Response Schema (application/json)
 
