@@ -20,7 +20,7 @@
   ------------ | ------------- | -------------
   FIT | Firebase Id Token | String/필수
   CoconutPIN | 회원가입 시 입력한 비밀번호 | String/필수
-  MobileNumber | 회원가입 시 입력한 휴대폰번호 | String/필수
+  PhoneNumber | 회원가입 시 입력한 휴대폰번호 | String/필수
   Email | 회원가입 시 입력한 이메일 | String/옵션
   
 - Response Success
