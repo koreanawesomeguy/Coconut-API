@@ -7,11 +7,11 @@
 - Request
 
   * Sample 
-{ 
-    "Email": "koreanawesomeguy@gmail.com", 
-    "PhoneNumber" : "821041139274", 
-    "Caller" : "Genohub"
-}
+ { 
+     "Email": "koreanawesomeguy@gmail.com", 
+     "PhoneNumber" : "821041139274", 
+     "Caller" : "Genohub"
+ }
   
   * Request body schema (application/json)
   
