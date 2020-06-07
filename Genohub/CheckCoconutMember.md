@@ -6,9 +6,8 @@
 
 - Request
 
-  * Sample 
- 
- { 
+  * Sample : 
+  { 
      "Email": "koreanawesomeguy@gmail.com", 
      "PhoneNumber" : "821041139274", 
      "Caller" : "Genohub"
