@@ -1,4 +1,4 @@
-# VRGX, VGP Balance 조회
+# GHUB, GHD Balance 조회
 
 
 - API : https://wv2v2nk1df.execute-api.us-east-2.amazonaws.com/CheckBalanceForThirdParty (POST)
