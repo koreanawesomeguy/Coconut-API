@@ -1,4 +1,4 @@
-# VGP 결제 내역 저장
+# GHD 결제 내역 저장
 
 - API : https://n3x65ok2dd.execute-api.us-east-2.amazonaws.com/StorePaymentForThirdParty (POST)
 
@@ -10,8 +10,8 @@
     "Email": "koreanawesomeguy@gmail.com",
     "PhoneNumber" : "821041139274",
     "Caller" : "Genohub",
-    "VGPUsage" : "10",
-    "VGPBalance" : "100",
+    "GHDUsage" : "10",
+    "GHDBalance" : "100",
     "StoreInfo" : "Familymart",
     "Timestamp" : "1590934309"
 }
