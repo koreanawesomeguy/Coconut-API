@@ -2,7 +2,7 @@
 
 - Response Error
   
-  * Sample
+  * Sample : 
   {
       "status": "3100",
       "response": "Wrong Caller"
