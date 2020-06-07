@@ -23,7 +23,7 @@
   
 - Response Success
 
-  * Sample 
+  * Sample : 
 {
     "status": "3000",
     "response": {
