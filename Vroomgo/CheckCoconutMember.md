@@ -6,7 +6,7 @@
 
 - Request
 
-  * Sample
+  * Sample : 
 { 
     "Email": "koreanawesomeguy@gmail.com", 
     "PhoneNumber" : "821041139274", 
@@ -23,7 +23,7 @@
   
 - Response Success
 
-  * Sample 
+  * Sample : 
   {
       "status": 3000,
       "response": "OK"
