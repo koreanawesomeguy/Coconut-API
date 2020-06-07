@@ -10,9 +10,7 @@
  
  { 
      "Email": "koreanawesomeguy@gmail.com", 
-     
      "PhoneNumber" : "821041139274", 
-     
      "Caller" : "Genohub"
  }
   
@@ -26,7 +24,7 @@
   
 - Response Success
 
-  * Sample 
+  * Sample : 
   {
       "status": 3000,
       "response": "OK"
