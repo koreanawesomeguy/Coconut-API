@@ -7,11 +7,10 @@
 
   * Sample : 
 {
-    "Email": "koreanawesomeguy@gmail.com",
+    "Email": "rlackstjdsla@naver.com",
     "PhoneNumber" : "821041139274",
     "Caller" : "Genohub",
     "GHDUsage" : "10",
-    "GHDBalance" : "100",
     "StoreInfo" : "Familymart",
     "Timestamp" : "1590934309"
 }
@@ -24,7 +23,6 @@
   Email | Genohub 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
   GHDUsage | GHD 사용량 | String/필수
-  GHDBalance | GHD 잔액 | String/필수
   StoreInfo | 가맹점 정보 | String/필수
   Timestamp | 결제일시  | String/필수
     
