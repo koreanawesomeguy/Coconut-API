@@ -6,12 +6,24 @@
 
 - Request
 
-  * Sample : 
-{ 
-    "Email": "koreanawesomeguy@gmail.com", 
-    "PhoneNumber" : "821041139274", 
-    "Caller" : "Genohub" 
-}
+  * Phone, Email 전부 사용하는 경우 : 
+  { 
+     "Email": "rlackstjdsla@naver.com", 
+     "PhoneNumber" : "821041139274", 
+     "Caller" : "Genohub"
+  }
+  
+  * Phone만 사용하는 경우 : 
+  { 
+     "PhoneNumber" : "821041139274", 
+     "Caller" : "Genohub"
+  }
+  
+  * Email만 사용하는 경우 : 
+  { 
+     "Email": "rlackstjdsla@naver.com", 
+     "Caller" : "Genohub"
+  }
   
   * Request body schema (application/json)
   
