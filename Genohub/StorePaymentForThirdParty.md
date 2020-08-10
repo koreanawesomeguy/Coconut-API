@@ -5,15 +5,12 @@
 
 - Request
 
-  * Sample : 
-{
-    "Email": "rlackstjdsla@naver.com",
-    "PhoneNumber" : "821041139274",
-    "Caller" : "Genohub",
-    "GHDUsage" : "10",
-    "StoreInfo" : "Familymart",
-    "Timestamp" : "1590934309"
-}
+Phone, Email 전부 사용하는 경우 : { "Email": "rlackstjdsla@naver.com", "PhoneNumber" : "821041139274", "Caller" : "Genohub", "GHDUsage" : "1", "StoreInfo" : "Familymart", "Timestamp" : "1590934319" }
+
+Phone만 사용하는 경우 : { "PhoneNumber" : "821041139274", "Caller" : "Genohub", "GHDUsage" : "1", "StoreInfo" : "Familymart", "Timestamp" : "1590934319" }
+
+Email만 사용하는 경우 : { "Email": "rlackstjdsla@naver.com", "Caller" : "Genohub", "GHDUsage" : "1", "StoreInfo" : "Familymart", "Timestamp" : "1590934319" }
+
   
   * Request body schema (application/json)
   
