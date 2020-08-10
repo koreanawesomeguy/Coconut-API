@@ -8,7 +8,7 @@
 
   * Phone, Email 전부 사용하는 경우 : 
   { 
-     "Email": "koreanawesomeguy@gmail.com", 
+     "Email": "rlackstjdsla@naver.com", 
      "PhoneNumber" : "821041139274", 
      "Caller" : "Genohub"
   }
@@ -21,7 +21,7 @@
   
   * Email만 사용하는 경우 : 
   { 
-     "Email": "koreanawesomeguy@gmail.com", 
+     "Email": "rlackstjdsla@naver.com", 
      "Caller" : "Genohub"
   }
   
