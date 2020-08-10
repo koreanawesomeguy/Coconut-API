@@ -15,3 +15,4 @@
   "3100" | "Wrong Caller" | Caller Service 오류
   "3200" | "Not Member" | 회원가입이 되어있지 않음
   "3300" | "No Asset Information" | 자산 정보 없음
+  "3400" | "Unhandled Error" | 비정상 
