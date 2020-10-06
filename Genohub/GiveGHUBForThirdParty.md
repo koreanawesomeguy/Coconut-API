@@ -18,7 +18,7 @@
   { 
      "PhoneNumber" : "821041139274", 
      "Caller" : "Genohub",
-     "Type" : "SignUp",
+     "Type" : "SignUp"
   }
   
   * Email만 사용하는 경우 : 
