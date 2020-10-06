@@ -35,7 +35,7 @@
   MobileNumber | Genohub 회원 휴대폰번호 | String/필수
   Email | Genohub 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
-  Type | 회원가입 시 코인 지급인 지, 친구 추천인 경우 코인 지급인 지 설정 | String/필수
+  Type | SignUp : 회원가입 시 코인 지급, Recommend : 친구 추천 시 코인 지급 | String/필수
   
 - Response Success
 
