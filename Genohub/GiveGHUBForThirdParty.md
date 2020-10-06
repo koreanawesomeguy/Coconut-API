@@ -23,9 +23,9 @@
   
   * Email만 사용하는 경우 : 
   { 
-     "Email": "rlackstjdsla@naver.com", 
-     "Caller" : "Genohub"
-     "Type" : "Recommend"
+      "Email": "rlackstjdsla@naver.com", 
+      "Caller" : "Genohub", 
+      "Type" : "Recommend" 
   }
   
   * Request body schema (application/json)
