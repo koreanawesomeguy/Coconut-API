@@ -1,7 +1,7 @@
 # GHUB 지급. 회원가입 시, 회원추천 시
 
 
-- API : https://wv2v2nk1df.execute-api.us-east-2.amazonaws.com/CheckBalanceForThirdParty (POST)
+- API : https://89q8lkgok1.execute-api.us-east-2.amazonaws.com/GiveGHUBForThirdParty (POST)
 
 
 - Request
