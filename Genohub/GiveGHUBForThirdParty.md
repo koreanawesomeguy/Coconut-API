@@ -1,4 +1,4 @@
-# GHUB, GHD Balance 조회
+# GHUB 지급. 회원가입 시, 회원추천 시
 
 
 - API : https://wv2v2nk1df.execute-api.us-east-2.amazonaws.com/CheckBalanceForThirdParty (POST)
