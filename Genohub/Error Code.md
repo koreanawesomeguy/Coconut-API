@@ -17,5 +17,5 @@
   "3300" | "No Asset Information" | 자산 정보 없음
   "3301" | "Balance Insufficient" | 자산 부족
   "3302" | "Type is empty" | Recommend/SignUp 파라미터 없음
-  "3303" | "Sender or Receiver is empty" | Sender/Receiver 파라미터 없음
+  "3303" | "Recommender or Recommendee is empty" | Sender/Receiver 파라미터 없음
   "3400" | "Unhandled Error" | 비정상 
