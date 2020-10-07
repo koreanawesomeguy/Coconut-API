@@ -1,5 +1,6 @@
 # GHUB 지급. 회원가입 시, 회원추천 시
 
+---------- 해당 API는 Genohub 회원 가입이 됐다는 전제하에 호출해주셔야 합니다. ----------
 
 - API : https://89q8lkgok1.execute-api.us-east-2.amazonaws.com/GiveGHUBForThirdParty (POST)
 
