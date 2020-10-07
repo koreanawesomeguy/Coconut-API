@@ -3,29 +3,21 @@
 
 - API : https://89q8lkgok1.execute-api.us-east-2.amazonaws.com/GiveGHUBForThirdParty (POST)
 
-
 - Request
 
-  * Phone, Email 전부 사용하는 경우 : 
+  * 제노허브 가입한 회원이면서 코코넛 가입한 회원인 경우 : 
   { 
      "Email": "rlackstjdsla@naver.com", 
-     "PhoneNumber" : "821041139274",
      "Type" : "SignUp",
      "Caller" : "Genohub"
   }
   
-  * Phone만 사용하는 경우 : 
+  * 코코넛 + 제노허브 가입자 B가 코코넛 + 제노허브 가입자 A를 추천인 코드로 등록 후 첫 결제 시 A에게 GHUB 지급
   { 
-     "PhoneNumber" : "821041139274", 
-     "Caller" : "Genohub",
-     "Type" : "SignUp"
-  }
-  
-  * Email만 사용하는 경우 : 
-  { 
-      "Email": "rlackstjdsla@naver.com", 
       "Caller" : "Genohub", 
-      "Type" : "Recommend" 
+      "Type" : "Recommend", 
+      "Recommender" :"sapphire1009@nate.com", 
+      "Recommendee" :"rlackstjdsla@naver.com"
   }
   
   * Request body schema (application/json)
@@ -36,10 +28,13 @@
   Email | Genohub 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
   Type | SignUp : 회원가입 시 코인 지급, Recommend : 친구 추천 시 코인 지급 | String/필수
+  Recommendee | 추천받는 회원 Email | String/필수
+  Recommender | 추천하는 회원 Email | String/필수
   
 - Response Success
 
-  * Sample : 
+  * Request body 에서 Type이 SignUp 인 경우, response에 제노허브 + 코코넛 회원가입 시 지급받는 GHUB 갯수가 return. 마찬가지로 Type이 Recommend인 경우 추천 시 지급할 GHUB 갯수를 return.
+  
 {
     "status": "3000",
     "response": "200"
