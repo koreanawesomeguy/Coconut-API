@@ -31,7 +31,7 @@
 - Response Success  
 {
     "status": "3000",
-    "response": "200"
+    "response": "OK"
 }
   
   * Response Schema (application/json)
