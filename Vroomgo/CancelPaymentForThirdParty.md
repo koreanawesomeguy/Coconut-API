@@ -11,9 +11,7 @@
     "PID" : "xxxxxxxxxxxxxxx",
     "PhoneNumber" : "821041139274",
     "Caller" : "Vroomgo",
-    "VGPUsage" : "10",
-    "StoreInfo" : "Familymart",
-    "Timestamp" : "1590934309"
+    "VGPUsage" : "10"
 }
   
   * Request body schema (application/json)
@@ -24,9 +22,7 @@
   PID | Payment ID | String/필수
   Email | Vroomgo 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
-  VGPUsage | VGP 사용량 | String/필수
-  StoreInfo | 가맹점 정보 | String/필수
-  Timestamp | 결제일시  | String/필수
+  VGPUsage | VGP 취소수량 | String/필수
     
 - Response Success
 
