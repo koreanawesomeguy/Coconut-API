@@ -19,4 +19,5 @@
   "3302" | "Type is empty" | Recommend/SignUp 파라미터 없음
   "3303" | "Recommender or Recommendee is empty" | Sender/Receiver 파라미터 없음
   "3304" | "No Payment ID" | 결제 ID 없음
+  "3305" | "Payment ID exists" | 결제 ID 이미 있음
   "3400" | "Unhandled Error" | 비정상 
