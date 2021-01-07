@@ -40,29 +40,45 @@
 {
     "status": "3000",
     "response": [{
-        "Timestamp": "1590934318",
-        "PhoneNumber": "+821041139274",
-        "Caller": "Vroomgo",
+        "Timestamp": "1590934309",
         "VGPBalance": "100",
-        "VGPUsage": "1",
+        "PhoneNumber": "+821041139274",
+        "VGPUsage": "10",
+        "Caller": "Vroomgo",
+        "Status": "PAID",
+        "PID": "123456",
         "StoreInfo": "Familymart",
-        "Email": "rlackstjdsla@naver.com"
+        "Email": "koreanawesomeguy@gmail.com"
     }, {
-        "Timestamp": "1590934319",
+        "Timestamp": "1590934309",
+        "VGPBalance": "100",
         "PhoneNumber": "+821041139274",
+        "VGPUsage": "8.5",
         "Caller": "Vroomgo",
-        "VGPBalance": "200",
-        "VGPUsage": "2",
-        "StoreInfo": "Lotteria",
-        "Email": "rlackstjdsla@naver.com"
+        "Status": "PAID",
+        "PID": "123456789",
+        "StoreInfo": "Familymart",
+        "Email": "koreanawesomeguy@gmail.com"
     }, {
-        "Timestamp": "1590934329",
+        "Timestamp": "1590934309",
+        "VGPBalance": "100",
         "PhoneNumber": "+821041139274",
+        "VGPUsage": "10.5",
         "Caller": "Vroomgo",
-        "VGPBalance": "200",
-        "VGPUsage": "2",
-        "StoreInfo": "Lotteria",
-        "Email": "rlackstjdsla@naver.com"
+        "Status": "PAID",
+        "PID": "1234567",
+        "StoreInfo": "Familymart",
+        "Email": "koreanawesomeguy@gmail.com"
+    }, {
+        "Timestamp": "1590934309",
+        "VGPBalance": "100",
+        "PhoneNumber": "+821041139274",
+        "VGPUsage": "8.5",
+        "Caller": "Vroomgo",
+        "Status": "Canceled",
+        "PID": "12345678",
+        "StoreInfo": "Familymart",
+        "Email": "koreanawesomeguy@gmail.com"
     }]
 }
   
