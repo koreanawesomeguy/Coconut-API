@@ -10,8 +10,7 @@
     "Email": "koreanawesomeguy@gmail.com",
     "PID" : "xxxxxxxxxxxxxxx",
     "PhoneNumber" : "821041139274",
-    "Caller" : "Vroomgo",
-    "VGPUsage" : "10"
+    "Caller" : "Vroomgo"
 }
   
   * Request body schema (application/json)
