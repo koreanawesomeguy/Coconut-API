@@ -21,7 +21,6 @@
   PID | Payment ID | String/필수
   Email | Vroomgo 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
-  VGPUsage | VGP 취소수량 | String/필수
     
 - Response Success
 
