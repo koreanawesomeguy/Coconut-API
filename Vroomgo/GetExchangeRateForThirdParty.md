@@ -28,8 +28,8 @@
   
   요청 변수 | 설명 | 타입
   ------------ | ------------- | -------------
-  PhoneNumber | Genohub 회원 휴대폰번호 | String/옵션
-  Email | Genohub 회원 이메일 | String/옵션
+  PhoneNumber | Vroomgo 회원 휴대폰번호 | String/옵션
+  Email | Vroomgo 회원 이메일 | String/옵션
   Caller | Caller Service | String/필수
     
 - Response Success
