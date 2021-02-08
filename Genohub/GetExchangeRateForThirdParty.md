@@ -46,6 +46,6 @@
 
   필드 | 설명 | 타입
   ------------ | ------------- | -------------
-  status | 결과 상태 코드 (정상: 3000, 에러의 경우 https://github.com/coinville/Coconut/blob/master/Vroomgo/Error%20Code.md 참고) | String/필수
+  status | 결과 상태 코드 (정상: 3000, 에러의 경우 https://github.com/koreanawesomeguy/Coconut-API/blob/master/Genohub/Error%20Code.md 참고) | String/필수
   response | 요청 결과 | String/필수
  
