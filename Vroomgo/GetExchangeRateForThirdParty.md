@@ -1,4 +1,4 @@
-# VGP 결제 취소
+# VRGX - VGP 환율 정보 
 
 - API : https://zdtac1fie3.execute-api.us-east-2.amazonaws.com/GetExchangeRateForThirdParty (POST)
 
