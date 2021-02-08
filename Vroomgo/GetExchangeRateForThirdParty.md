@@ -9,19 +9,19 @@
   { 
      "Email": "rlackstjdsla@naver.com", 
      "PhoneNumber" : "821041139274", 
-     "Caller" : "Genohub"
+     "Caller" : "Vroomgo"
   }
   
   * Phone만 사용하는 경우 : 
   { 
      "PhoneNumber" : "821041139274", 
-     "Caller" : "Genohub"
+     "Caller" : "Vroomgo"
   }
   
   * Email만 사용하는 경우 : 
   { 
      "Email": "rlackstjdsla@naver.com", 
-     "Caller" : "Genohub"
+     "Caller" : "Vroomgo"
   }
   
   * Request body schema (application/json)
