@@ -39,7 +39,8 @@
     "status": "3000",
     "response": {
         "VRGXPrice": "4.90",
-        "TransferCommission": "3"
+        "TransferCommission": "3",
+        "PHP": "0.0430422884"
     }
 }
   
