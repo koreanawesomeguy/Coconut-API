@@ -38,7 +38,8 @@
 {
     "status": "3000",
     "response": {
-        "VRGX": "5"
+        "VRGXPrice": "4.90",
+        "TransferCommission": "3"
     }
 }
   
