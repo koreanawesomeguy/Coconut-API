@@ -40,7 +40,7 @@
     "response": {
         "VRGXPrice": "4.90",
         "TransferCommission": "3",
-        "PHP": "0.0430422884"
+        "PHP": "0.043"
     }
 }
   
