@@ -13,17 +13,15 @@
   
 - 소스코드 다운로드 방법
   . Visual Studio Code 에서 아래 sftp 설정을 통한 코드 다운로드 (pem 파일을 privateKeyPath path 저장해야 다운로드 가능)
+  
     {
       "name": "coconutadmin.coinville.ph",
       "host": "coconutadmin.coinville.ph",
       "protocol": "sftp",
       "port": 22,
-
       "username": "bitnami",
       "privateKeyPath": "C:\\Users\\korea\\Desktop\\Coconut\\Coconut_Admin\\pem\\key-coconutadmin.coinville.ph.pem",
-
       "remotePath": "/opt/bitnami/nginx/html/",
-
       "watcher": {"files": "**", "autoUpload": true, "autoDelete": true},
       "uploadOnSave": true
     }
