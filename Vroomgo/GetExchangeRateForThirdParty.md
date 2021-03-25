@@ -1,5 +1,7 @@
 # VRGX - VGP 환율 정보 
 
+## 1VRGX 당 VGP = VRGX 시장가 * 1KRW 당 페소 환율 * ((100 - 환전수수료) / 100)
+
 - API : https://zdtac1fie3.execute-api.us-east-2.amazonaws.com/GetExchangeRateForThirdParty (POST)
 
 
