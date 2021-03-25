@@ -18,6 +18,7 @@
   * Email만 사용하는 경우 : 
   { 
      "Email": "rlackstjdsla@naver.com", 
+     "AssetCode" : "VGP"
      "Caller" : "Vroomgo"
   }
   
